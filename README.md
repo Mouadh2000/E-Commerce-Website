@@ -1,4 +1,5 @@
 OOP PHP, MVC, HTML, CSS, Bootstrap, JavaScript, Jquery, AJAX, MySQL
+
 Back-end: OOP PHP and MySQL for the database
 Front-end: CSS, Bootstrap, JavaScript and Jquery
 Design pattern: MVC
