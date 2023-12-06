@@ -8,10 +8,11 @@ This web application is a feature-rich online store built using Object-Oriented 
 ### Back-end
 - **Object-Oriented PHP:** Utilized for robust server-side functionality.
 - **MySQL Database:** Stores and manages product information and user data.
+- **MVC Design Pattern:** Ensures a clear separation of concerns for maintainability.
 
 ### Front-end
-- **CSS, Bootstrap, JavaScript, and jQuery:** Enhance the user interface and provide a responsive design.
-- **MVC Design Pattern:** Ensures a clear separation of concerns for maintainability.
+- **CSS, Bootstrap, JavaScript, AJAX and jQuery:** Enhance the user interface and provide a responsive design.
+
 
 ### Server
 - **Apache (Xampp):** Local server setup for development.
