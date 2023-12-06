@@ -29,7 +29,7 @@ This web application is a feature-rich online store built using Object-Oriented 
 ### User Authentication
 - **Separate Logins:** Users and administrators have distinct login routes.
 - **Admin Panel Security:** Only accessible locally; 403 forbidden for external access.
-- **Security Measures:** Prevents LFi, SQL injection, XSS, and Brute Force Attacks.
+- **Security Measures:** Prevents Possible LFi, SQL injection, XSS, and Brute Force Attacks.
 - **Registration Check:** Ensures strong user registration credentials.
 
 ### User Interaction
