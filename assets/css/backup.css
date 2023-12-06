@@ -1,0 +1,71 @@
+body{
+    background-color: #80808054;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #0993ce;
+}
+
+.profile-button {
+    background: #0993ce;
+    box-shadow: none;
+    border: none;
+}
+
+.profile-button:hover {
+    background: #067093;
+}
+
+.profile-button:focus {
+    background: #067093;
+    box-shadow: none;
+}
+
+.profile-button:active {
+    background: #067093;
+    box-shadow: none;
+}
+
+.back:hover {
+    color: #067093;
+    cursor: pointer;
+}
+
+.labels {
+    font-size: 11px;
+}
+
+.add-experience:hover {
+    background: #0993ce;
+    color: #fff;
+    cursor: pointer;
+    border: solid 1px #0993ce;
+}
+
+.btn-danger {
+    border: 1px solid #d63417;
+    background: #d63417;
+    color: white;
+  }
+  
+.btn-danger:hover {
+    background: #ec573c;
+  }
+  
+.btn-danger:active {
+    background: #d63417;
+  }
+.btn-icon-danger:hover {
+    background: #d63417;
+    color: white;
+  }
+.btn-icon {
+    border: 1px solid #e0e0e0;
+    background: none;
+    width: 35px;
+    height: 35px;
+    border-radius: 4px;
+    color: #6a727a;
+    cursor: pointer;
+  }

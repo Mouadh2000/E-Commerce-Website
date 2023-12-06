@@ -1,0 +1,13 @@
+{
+    "name": "mouadh/e-commerce",
+    "description": "e-commerce web application",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mouadh"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}

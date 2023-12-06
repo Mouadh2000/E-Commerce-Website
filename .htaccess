@@ -1,0 +1,13 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    Options -Indexes
+    # Set the default page for a 403 Forbidden error to your custom 404 page
+    ErrorDocument 403 /E-Commerce/app/views/errors/404.php
+    RewriteBase /E-Commerce/
+
+    # Redirect all requests to index.php if the file or directory does not exist
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^ index.php [QSA,L]
+</IfModule>
+

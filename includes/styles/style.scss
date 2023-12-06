@@ -1,0 +1,25 @@
+@import './variables';
+@import './components';
+@import './helpers';
+@import './header';
+@import './global';
+@import './main';
+@import './nav';
+@import './toggle';
+
+/*PAGES*/
+@import './Components/paginate';
+@import './Components/table';
+@import './Components/buttons';
+@import './Components/select';
+@import './Components/breadcramb';
+@import './Components/input';
+@import './Components/modal';
+@import './Components/checkbox';
+@import './Customers/customers';
+@import './Home/home';
+@import './Orders/orders';
+@import './Orders/abandoned';
+@import './Orders/fulfillment';
+@import './Collections/collections';
+@import './Products/products';
