@@ -23,7 +23,7 @@ This web application is a feature-rich online store built using Object-Oriented 
 - **Dynamic Pricing:** Calculates total price based on selected product quantity.
 
 ### Shopping Cart
-- **Session-Based Cart:** Allows users to add and remove products, displaying total price.
+- **Session-Based Cart:** Allows both visitors and  users to add and remove products, displaying total price.
 - **Cart Overview:** Shows all products in the cart with the total price.
 
 ### User Authentication
